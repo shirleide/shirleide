@@ -1,15 +1,28 @@
-# Shirleide da Silva :woman_technologist:
+# Shirleide da Silva | Full Stack Developer | Palestrante | Tech Community Enthusiast 🚀
 
-#### 👋 Bem vinda(o) ao meu perfil
+## 👋 Bem-vindo(a) ao meu perfil!
 
- - 💜 Apaixonada por TI desde meus 9 anos, atualmente Developer Full Stack
- - 📌 Skills: HTML, CSS, JavaScript, Angular, Bootstrap, Node.js, Java, C#, SQL
- - 📚 Estudando: React, ReactNative
- - 😄 Meus hobbies: Cantoria é livre
- ----
+🎓 Pós-graduanda em Engenharia de Software  
+💡 Desenvolvedora Full Stack com mais de 8 anos de experiência em aplicações web. Atuo desde 2016 em tecnologia, com vivência desde o estágio até posições como Ponto Focal.  
+🚀 Apaixonada por criar soluções eficientes e escaláveis, com foco em boas práticas, performance e arquitetura limpa.  
+🎯 Expertise em Angular, TypeScript, JavaScript, C# e Java, além de integração com APIs REST e manipulação de dados em banco de dados relacional como Oracle, PL/SQL.  
+🤝 Atuação em projetos de manutenção de sistemas legados e atuando como ponto focal técnica, promovendo sinergia entre equipes e decisões técnicas estratégicas.  
+🎤 Compartilho conhecimento como palestrante, mentora e participante ativa em eventos das comunidades como InspirAda na Computação, PyLadies Recife, Women Techmakers Recife, e mais.  
+🌟 Acredito no poder transformador da tecnologia e da colaboração. Compartilho minha jornada como dev no Instagram [@shirleide.dev](https://www.instagram.com/shirleide.dev/).  
 
-[![Github Badge](https://img.shields.io/badge/-shirleide-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/shirleide)](https://github.com/shirleide)
-[![Linkedin Badge](https://img.shields.io/badge/-shirleide-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shirleide/)](https://www.linkedin.com/in/shirleide/)
-[![Twitter Badge](https://img.shields.io/badge/-leidevips-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leidevips)](https://twitter.com/leidevips)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shirleidevips@gmail.com)](mailto:shirleidevips@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@shirleidevips-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/shirleidevips/)](https://www.instagram.com/shirleidevips/)
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+🔹 **Frontend:** Angular, TypeScript, JavaScript, HTML, CSS
+🔹 **Backend:** C# (.NET), Java, Node.js  
+🔹 **Bancos de Dados:** SQL (Oracle, SQL Server) NoSQL (MongoDB)  
+🔹 **Infra & DevOps:** Docker e Kubernetes (aprendendo), AWS, Microsoft Azure  
+
+---
+
+## 📫 Entre em contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shirleide/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shirleide)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shirleide.dev/)  
